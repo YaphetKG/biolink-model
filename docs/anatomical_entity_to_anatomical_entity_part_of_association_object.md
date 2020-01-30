@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:anatomical_entity_to_anatomical_entity_part_of_association_object
+grand_parent: Browse Biolink Model
+---
 
-# Slot: object
+# Type: anatomical_entity_to_anatomical_entity_part_of_association_object
 
 
 
@@ -12,7 +17,7 @@ URI: [biolink:anatomical_entity_to_anatomical_entity_part_of_association_object]
 
 ## Parents
 
- *  is_a: [object](anatomical_entity_to_anatomical_entity_association_object.md)
+ *  is_a: [anatomical entity to anatomical entity association➞object](anatomical_entity_to_anatomical_entity_association_object.md)
 
 ## Children
 

@@ -1,12 +1,23 @@
+---
+parent: Mixins
+title: biolink:RelationshipQuantifier
+grand_parent: Browse Biolink Model
+---
 
-# Class: relationship quantifier
+# Type: RelationshipQuantifier
 
 
 
 
 URI: [biolink:RelationshipQuantifier](https://w3id.org/biolink/vocab/RelationshipQuantifier)
 
-![img](images/RelationshipQuantifier.png)
+
+---
+
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/\[RelationshipQuantifier]^-\[SpecificityQuantifier],%20\[RelationshipQuantifier]^-\[SensitivityQuantifier],%20\[RelationshipQuantifier]^-\[FrequencyQuantifier])
+
+---
+
 
 ## Children
 

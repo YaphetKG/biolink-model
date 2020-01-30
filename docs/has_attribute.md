@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:has_attribute
+grand_parent: Browse Biolink Model
+---
 
-# Slot: has attribute
+# Type: has_attribute
+
+samples
+{: .samples-subset-label }
 
 
 connects any named thing to an attribute
@@ -19,3 +27,12 @@ None ->  <sub>0..*</sub> [Attribute](Attribute.md)
 ## Used by
 
  * [MaterialSample](MaterialSample.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | SIO:000008 |
+|  | | RO:0000053 |
+| **In Subsets:** | | samples |
+

@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:in_cell_population_with
+grand_parent: Browse Biolink Model
+---
 
-# Slot: in cell population with
+# Type: in_cell_population_with
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between two genes or gene products that are expressed in the same cell type or population
@@ -29,3 +37,10 @@ URI: [biolink:in_cell_population_with](https://w3id.org/biolink/vocab/in_cell_po
  * [NoncodingRNAProduct](NoncodingRNAProduct.md)
  * [Protein](Protein.md)
  * [ProteinIsoform](ProteinIsoform.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **In Subsets:** | | translator_minimal |
+

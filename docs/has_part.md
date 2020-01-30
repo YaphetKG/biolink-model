@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:has_part
+grand_parent: Browse Biolink Model
+---
 
-# Slot: has part
+# Type: has_part
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between wholes and their parts (material entities or processes)
@@ -16,7 +24,18 @@ URI: [biolink:has_part](https://w3id.org/biolink/vocab/has_part)
 
 ## Children
 
+ *  [treatment➞has part](treatment_has_part.md)
 
 ## Used by
 
  * [NamedThing](NamedThing.md)
+ * [Treatment](Treatment.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | BFO:0000051 |
+|  | | WD:P527 |
+| **In Subsets:** | | translator_minimal |
+

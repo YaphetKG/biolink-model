@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:end_interbase_coordinate
+grand_parent: Browse Biolink Model
+---
 
-# Slot: end interbase coordinate
+# Type: end_interbase_coordinate
 
 
 
@@ -8,7 +13,7 @@ URI: [biolink:end_interbase_coordinate](https://w3id.org/biolink/vocab/end_inter
 
 ## Domain and Range
 
-[NamedThing](NamedThing.md) ->  <sub>OPT</sub> [String](String.md)
+[NamedThing](NamedThing.md) ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Parents
 

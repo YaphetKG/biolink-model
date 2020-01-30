@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:correlated_with
+grand_parent: Browse Biolink Model
+---
 
-# Slot: correlated with
+# Type: correlated_with
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between a disease or phenotypic feature and a measurable molecular entity that is used as an indicator of the presence or state of the disease or feature.
@@ -24,3 +32,11 @@ URI: [biolink:correlated_with](https://w3id.org/biolink/vocab/correlated_with)
  * [Disease](Disease.md)
  * [DiseaseOrPhenotypicFeature](DiseaseOrPhenotypicFeature.md)
  * [PhenotypicFeature](PhenotypicFeature.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:0002610 |
+| **In Subsets:** | | translator_minimal |
+

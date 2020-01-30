@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:orthologous_to
+grand_parent: Browse Biolink Model
+---
 
-# Slot: orthologous to
+# Type: orthologous_to
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 a homology relationship between entities (typically genes) that diverged after a speciation event.
@@ -20,3 +28,12 @@ URI: [biolink:orthologous_to](https://w3id.org/biolink/vocab/orthologous_to)
 ## Used by
 
  * [NamedThing](NamedThing.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:HOM0000017 |
+|  | | WD:P684 |
+| **In Subsets:** | | translator_minimal |
+

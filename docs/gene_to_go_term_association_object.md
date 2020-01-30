@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:gene_to_go_term_association_object
+grand_parent: Browse Biolink Model
+---
 
-# Slot: object
+# Type: gene_to_go_term_association_object
 
 
 
@@ -12,7 +17,7 @@ URI: [biolink:gene_to_go_term_association_object](https://w3id.org/biolink/vocab
 
 ## Parents
 
- *  is_a: [object](functional_association_object.md)
+ *  is_a: [functional association➞object](functional_association_object.md)
 
 ## Children
 

@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:has_molecular_consequence
+grand_parent: Browse Biolink Model
+---
 
-# Slot: has molecular consequence
+# Type: has_molecular_consequence
 
 
 connects a sequence variant to a class describing the molecular consequence. E.g.  SO:0001583

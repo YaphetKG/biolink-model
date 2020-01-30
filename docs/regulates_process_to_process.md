@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:regulates_process_to_process
+grand_parent: Browse Biolink Model
+---
 
-# Slot: regulates, process to process
+# Type: regulates_process_to_process
 
 
 
@@ -31,3 +36,10 @@ URI: [biolink:regulates_process_to_process](https://w3id.org/biolink/vocab/regul
  * [Phenomenon](Phenomenon.md)
  * [PhysiologicalProcess](PhysiologicalProcess.md)
  * [Procedure](Procedure.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:0002211 |
+

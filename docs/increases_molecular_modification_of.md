@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:increases_molecular_modification_of
+grand_parent: Browse Biolink Model
+---
 
-# Slot: increases molecular modification of
+# Type: increases_molecular_modification_of
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between two molecular entities where the action or effect of one leads to increased molecular modification(s) of the other (e.g. via post-translational modifications of proteins such as the addition of phosphoryl group, or via redox reaction that adds or subtracts electrons)
@@ -45,3 +53,10 @@ URI: [biolink:increases_molecular_modification_of](https://w3id.org/biolink/voca
  * [ProteinIsoform](ProteinIsoform.md)
  * [SequenceVariant](SequenceVariant.md)
  * [Transcript](Transcript.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **In Subsets:** | | translator_minimal |
+

@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:has_numeric_value
+grand_parent: Browse Biolink Model
+---
 
-# Slot: has numeric value
+# Type: has_numeric_value
+
+samples
+{: .samples-subset-label }
 
 
 connects a quantity value to a number
@@ -8,7 +16,7 @@ URI: [biolink:has_numeric_value](https://w3id.org/biolink/vocab/has_numeric_valu
 
 ## Domain and Range
 
-[QuantityValue](QuantityValue.md) ->  <sub>OPT</sub> [Double](Double.md)
+[QuantityValue](QuantityValue.md) ->  <sub>OPT</sub> [Double](types/Double.md)
 
 ## Parents
 
@@ -19,3 +27,11 @@ URI: [biolink:has_numeric_value](https://w3id.org/biolink/vocab/has_numeric_valu
 ## Used by
 
  * [QuantityValue](QuantityValue.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | qud:quantityValue |
+| **In Subsets:** | | samples |
+

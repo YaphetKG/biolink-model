@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:source_version
+grand_parent: Browse Biolink Model
+---
 
-# Slot: source version
+# Type: source_version
 
 
 
@@ -8,7 +13,7 @@ URI: [biolink:source_version](https://w3id.org/biolink/vocab/source_version)
 
 ## Domain and Range
 
-[SourceFile](SourceFile.md) ->  <sub>OPT</sub> [String](String.md)
+[SourceFile](SourceFile.md) ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Parents
 
@@ -20,3 +25,10 @@ URI: [biolink:source_version](https://w3id.org/biolink/vocab/source_version)
 ## Used by
 
  * [SourceFile](SourceFile.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | pav:version |
+

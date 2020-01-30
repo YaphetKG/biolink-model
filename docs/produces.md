@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:produces
+grand_parent: Browse Biolink Model
+---
 
-# Slot: produces
+# Type: produces
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between a material entity and a product that is generated through the intentional actions or functioning of the material entity
@@ -20,3 +28,13 @@ URI: [biolink:produces](https://w3id.org/biolink/vocab/produces)
 ## Used by
 
  * [NamedThing](NamedThing.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:0003000 |
+|  | | WD:P1056 |
+|  | | SEMMEDDB:PRODUCES |
+| **In Subsets:** | | translator_minimal |
+

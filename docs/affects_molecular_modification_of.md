@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:affects_molecular_modification_of
+grand_parent: Browse Biolink Model
+---
 
-# Slot: affects molecular modification of
+# Type: affects_molecular_modification_of
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between two molecular entities where the action or effect of one leads changes in the molecular modification(s) of the other (e.g. via post-translational modifications of proteins such as the addition of phosphoryl group, or via redox reaction that adds or subtracts electrons)
@@ -47,3 +55,10 @@ URI: [biolink:affects_molecular_modification_of](https://w3id.org/biolink/vocab/
  * [ProteinIsoform](ProteinIsoform.md)
  * [SequenceVariant](SequenceVariant.md)
  * [Transcript](Transcript.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **In Subsets:** | | translator_minimal |
+

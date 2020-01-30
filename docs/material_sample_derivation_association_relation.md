@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:material_sample_derivation_association_relation
+grand_parent: Browse Biolink Model
+---
 
-# Slot: relation
+# Type: material_sample_derivation_association_relation
 
 
 
@@ -8,7 +13,7 @@ URI: [biolink:material_sample_derivation_association_relation](https://w3id.org/
 
 ## Domain and Range
 
-[MaterialSampleDerivationAssociation](MaterialSampleDerivationAssociation.md) ->  <sub>REQ</sub> [Uriorcurie](Uriorcurie.md)
+[MaterialSampleDerivationAssociation](MaterialSampleDerivationAssociation.md) ->  <sub>REQ</sub> [Uriorcurie](types/Uriorcurie.md)
 
 ## Parents
 

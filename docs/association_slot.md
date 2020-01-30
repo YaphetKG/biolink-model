@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:association_slot
+grand_parent: Browse Biolink Model
+---
 
-# Slot: association slot
+# Type: association_slot
 
 
 any slot that relates an association to another entity
@@ -8,7 +13,7 @@ URI: [biolink:association_slot](https://w3id.org/biolink/vocab/association_slot)
 
 ## Domain and Range
 
-[Association](Association.md) ->  <sub>OPT</sub> [String](String.md)
+[Association](Association.md) ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Parents
 
@@ -54,11 +59,12 @@ URI: [biolink:association_slot](https://w3id.org/biolink/vocab/association_slot)
  * [ChemicalToThingAssociation](ChemicalToThingAssociation.md)
  * [DiseaseOrPhenotypicFeatureAssociationToLocationAssociation](DiseaseOrPhenotypicFeatureAssociationToLocationAssociation.md)
  * [DiseaseOrPhenotypicFeatureAssociationToThingAssociation](DiseaseOrPhenotypicFeatureAssociationToThingAssociation.md)
+ * [DiseaseToExposureAssociation](DiseaseToExposureAssociation.md)
  * [DiseaseToPhenotypicFeatureAssociation](DiseaseToPhenotypicFeatureAssociation.md)
  * [DiseaseToThingAssociation](DiseaseToThingAssociation.md)
  * [EntityToPhenotypicFeatureAssociation](EntityToPhenotypicFeatureAssociation.md)
- * [EnvironmentToPhenotypicFeatureAssociation](EnvironmentToPhenotypicFeatureAssociation.md)
  * [ExonToTranscriptRelationship](ExonToTranscriptRelationship.md)
+ * [ExposureEventToPhenotypicFeatureAssociation](ExposureEventToPhenotypicFeatureAssociation.md)
  * [FunctionalAssociation](FunctionalAssociation.md)
  * [GeneAsAModelOfDiseaseAssociation](GeneAsAModelOfDiseaseAssociation.md)
  * [GeneHasVariantThatContributesToDiseaseAssociation](GeneHasVariantThatContributesToDiseaseAssociation.md)
@@ -94,3 +100,11 @@ URI: [biolink:association_slot](https://w3id.org/biolink/vocab/association_slot)
  * [VariantToPhenotypicFeatureAssociation](VariantToPhenotypicFeatureAssociation.md)
  * [VariantToPopulationAssociation](VariantToPopulationAssociation.md)
  * [VariantToThingAssociation](VariantToThingAssociation.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Aliases:** | | edge property |
+|  | | statement property |
+

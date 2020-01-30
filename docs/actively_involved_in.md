@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:actively_involved_in
+grand_parent: Browse Biolink Model
+---
 
-# Slot: actively involved in
+# Type: actively_involved_in
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between a continuant and a process or function, where the continuant actively contributes to part or all of the process or function it realizes
@@ -21,3 +29,11 @@ URI: [biolink:actively_involved_in](https://w3id.org/biolink/vocab/actively_invo
 ## Used by
 
  * [NamedThing](NamedThing.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:0002331 |
+| **In Subsets:** | | translator_minimal |
+

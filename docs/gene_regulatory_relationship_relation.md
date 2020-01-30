@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:gene_regulatory_relationship_relation
+grand_parent: Browse Biolink Model
+---
 
-# Slot: relation
+# Type: gene_regulatory_relationship_relation
 
 
 
@@ -8,7 +13,7 @@ URI: [biolink:gene_regulatory_relationship_relation](https://w3id.org/biolink/vo
 
 ## Domain and Range
 
-[GeneRegulatoryRelationship](GeneRegulatoryRelationship.md) ->  <sub>REQ</sub> [Uriorcurie](Uriorcurie.md)
+[GeneRegulatoryRelationship](GeneRegulatoryRelationship.md) ->  <sub>REQ</sub> [Uriorcurie](types/Uriorcurie.md)
 
 ## Parents
 

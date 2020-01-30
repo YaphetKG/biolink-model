@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:genotype_to_gene_association_subject
+grand_parent: Browse Biolink Model
+---
 
-# Slot: subject
+# Type: genotype_to_gene_association_subject
 
 
 

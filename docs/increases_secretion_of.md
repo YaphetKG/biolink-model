@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:increases_secretion_of
+grand_parent: Browse Biolink Model
+---
 
-# Slot: increases secretion of
+# Type: increases_secretion_of
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between two molecular entities where the action or effect of one increases the rate of secretion of the other out of a cell, gland, or organ
@@ -45,3 +53,10 @@ URI: [biolink:increases_secretion_of](https://w3id.org/biolink/vocab/increases_s
  * [ProteinIsoform](ProteinIsoform.md)
  * [SequenceVariant](SequenceVariant.md)
  * [Transcript](Transcript.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **In Subsets:** | | translator_minimal |
+

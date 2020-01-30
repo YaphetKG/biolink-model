@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:has_input
+grand_parent: Browse Biolink Model
+---
 
-# Slot: has input
+# Type: has_input
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between a process and a continuant, where the continuant is an input into the process
@@ -16,7 +24,7 @@ URI: [biolink:has_input](https://w3id.org/biolink/vocab/has_input)
 
 ## Children
 
- *  [has input](molecular_activity_has_input.md)
+ *  [molecular activity➞has input](molecular_activity_has_input.md)
 
 ## Used by
 
@@ -30,3 +38,12 @@ URI: [biolink:has_input](https://w3id.org/biolink/vocab/has_input)
  * [Phenomenon](Phenomenon.md)
  * [PhysiologicalProcess](PhysiologicalProcess.md)
  * [Procedure](Procedure.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:0002233 |
+|  | | SEMMEDDB:USES |
+| **In Subsets:** | | translator_minimal |
+

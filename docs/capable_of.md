@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:capable_of
+grand_parent: Browse Biolink Model
+---
 
-# Slot: capable of
+# Type: capable_of
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between a physical entity and process or function, where the continuant alone has the ability to carry out the process or function.
@@ -20,3 +28,11 @@ URI: [biolink:capable_of](https://w3id.org/biolink/vocab/capable_of)
 ## Used by
 
  * [NamedThing](NamedThing.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:0002215 |
+| **In Subsets:** | | translator_minimal |
+

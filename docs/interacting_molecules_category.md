@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:interacting_molecules_category
+grand_parent: Browse Biolink Model
+---
 
-# Slot: interacting molecules category
+# Type: interacting_molecules_category
 
 
 

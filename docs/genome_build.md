@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:genome_build
+grand_parent: Browse Biolink Model
+---
 
-# Slot: genome build
+# Type: genome_build
 
 
 TODO
@@ -8,7 +13,7 @@ URI: [biolink:genome_build](https://w3id.org/biolink/vocab/genome_build)
 
 ## Domain and Range
 
-[NamedThing](NamedThing.md) ->  <sub>OPT</sub> [String](String.md)
+[NamedThing](NamedThing.md) ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Parents
 

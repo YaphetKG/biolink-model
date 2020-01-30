@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:part_of
+grand_parent: Browse Biolink Model
+---
 
-# Slot: part of
+# Type: part_of
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between parts and wholes (material entities or processes)
@@ -20,3 +28,13 @@ URI: [biolink:part_of](https://w3id.org/biolink/vocab/part_of)
 ## Used by
 
  * [NamedThing](NamedThing.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | BFO:0000050 |
+|  | | SEMMEDDB:PART_OF |
+|  | | WD:P361 |
+| **In Subsets:** | | translator_minimal |
+

@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:has_zygosity
+grand_parent: Browse Biolink Model
+---
 
-# Slot: has zygosity
+# Type: has_zygosity
 
 
 

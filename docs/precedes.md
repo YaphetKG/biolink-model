@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:precedes
+grand_parent: Browse Biolink Model
+---
 
-# Slot: precedes
+# Type: precedes
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between two processes, where one completes before the other begins
@@ -29,3 +37,13 @@ URI: [biolink:precedes](https://w3id.org/biolink/vocab/precedes)
  * [Phenomenon](Phenomenon.md)
  * [PhysiologicalProcess](PhysiologicalProcess.md)
  * [Procedure](Procedure.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | BFO:0000063 |
+|  | | SEMMEDDB:PRECEDES |
+|  | | WD:P156 |
+| **In Subsets:** | | translator_minimal |
+

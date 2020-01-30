@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:overlaps
+grand_parent: Browse Biolink Model
+---
 
-# Slot: overlaps
+# Type: overlaps
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between entties that overlap in their extents (materials or processes)
@@ -22,3 +30,11 @@ URI: [biolink:overlaps](https://w3id.org/biolink/vocab/overlaps)
 ## Used by
 
  * [NamedThing](NamedThing.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:0002131 |
+| **In Subsets:** | | translator_minimal |
+

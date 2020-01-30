@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:genotype_to_gene_association_relation
+grand_parent: Browse Biolink Model
+---
 
-# Slot: relation
+# Type: genotype_to_gene_association_relation
 
 
 
@@ -8,7 +13,7 @@ URI: [biolink:genotype_to_gene_association_relation](https://w3id.org/biolink/vo
 
 ## Domain and Range
 
-[GenotypeToGeneAssociation](GenotypeToGeneAssociation.md) ->  <sub>REQ</sub> [Uriorcurie](Uriorcurie.md)
+[GenotypeToGeneAssociation](GenotypeToGeneAssociation.md) ->  <sub>REQ</sub> [Uriorcurie](types/Uriorcurie.md)
 
 ## Parents
 

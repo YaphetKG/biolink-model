@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:synonym
+grand_parent: Browse Biolink Model
+---
 
-# Slot: synonym
+# Type: synonym
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 Alternate human-readable names for a thing
@@ -8,7 +16,7 @@ URI: [biolink:synonym](https://w3id.org/biolink/vocab/synonym)
 
 ## Domain and Range
 
-[NamedThing](NamedThing.md) ->  <sub>0..*</sub> [LabelType](LabelType.md)
+[NamedThing](NamedThing.md) ->  <sub>0..*</sub> [LabelType](types/LabelType.md)
 
 ## Parents
 
@@ -34,6 +42,7 @@ URI: [biolink:synonym](https://w3id.org/biolink/vocab/synonym)
  * [Cell](Cell.md)
  * [CellLine](CellLine.md)
  * [CellularComponent](CellularComponent.md)
+ * [ChemicalExposure](ChemicalExposure.md)
  * [ChemicalSubstance](ChemicalSubstance.md)
  * [ClinicalEntity](ClinicalEntity.md)
  * [ClinicalIntervention](ClinicalIntervention.md)
@@ -51,11 +60,11 @@ URI: [biolink:synonym](https://w3id.org/biolink/vocab/synonym)
  * [DistributionLevel](DistributionLevel.md)
  * [Drug](Drug.md)
  * [DrugExposure](DrugExposure.md)
- * [Environment](Environment.md)
  * [EnvironmentalFeature](EnvironmentalFeature.md)
  * [EnvironmentalProcess](EnvironmentalProcess.md)
  * [EvidenceType](EvidenceType.md)
  * [Exon](Exon.md)
+ * [ExposureEvent](ExposureEvent.md)
  * [FrequencyValue](FrequencyValue.md)
  * [Gene](Gene.md)
  * [GeneFamily](GeneFamily.md)
@@ -108,3 +117,11 @@ URI: [biolink:synonym](https://w3id.org/biolink/vocab/synonym)
  * [Transcript](Transcript.md)
  * [Treatment](Treatment.md)
  * [Zygosity](Zygosity.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Aliases:** | | alias |
+| **In Subsets:** | | translator_minimal |
+

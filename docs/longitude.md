@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:longitude
+grand_parent: Browse Biolink Model
+---
 
-# Slot: longitude
+# Type: longitude
 
 
 longitude
@@ -8,7 +13,7 @@ URI: [biolink:longitude](https://w3id.org/biolink/vocab/longitude)
 
 ## Domain and Range
 
-[NamedThing](NamedThing.md) ->  <sub>OPT</sub> [Float](Float.md)
+[NamedThing](NamedThing.md) ->  <sub>OPT</sub> [Float](types/Float.md)
 
 ## Parents
 
@@ -22,3 +27,10 @@ URI: [biolink:longitude](https://w3id.org/biolink/vocab/longitude)
  * [GeographicLocation](GeographicLocation.md)
  * [GeographicLocationAtTime](GeographicLocationAtTime.md)
  * [NamedThing](NamedThing.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | wgs:long |
+

@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:variant_to_phenotypic_feature_association_subject
+grand_parent: Browse Biolink Model
+---
 
-# Slot: subject
+# Type: variant_to_phenotypic_feature_association_subject
 
 
 

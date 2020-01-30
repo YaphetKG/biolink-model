@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:anatomical_entity_to_anatomical_entity_ontogenic_association_subject
+grand_parent: Browse Biolink Model
+---
 
-# Slot: subject
+# Type: anatomical_entity_to_anatomical_entity_ontogenic_association_subject
 
 
 
@@ -12,7 +17,7 @@ URI: [biolink:anatomical_entity_to_anatomical_entity_ontogenic_association_subje
 
 ## Parents
 
- *  is_a: [subject](anatomical_entity_to_anatomical_entity_association_subject.md)
+ *  is_a: [anatomical entity to anatomical entity association➞subject](anatomical_entity_to_anatomical_entity_association_subject.md)
 
 ## Children
 

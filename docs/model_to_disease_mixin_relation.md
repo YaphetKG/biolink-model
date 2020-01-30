@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:model_to_disease_mixin_relation
+grand_parent: Browse Biolink Model
+---
 
-# Slot: relation
+# Type: model_to_disease_mixin_relation
 
 
 
@@ -8,7 +13,7 @@ URI: [biolink:model_to_disease_mixin_relation](https://w3id.org/biolink/vocab/mo
 
 ## Domain and Range
 
-[ModelToDiseaseMixin](ModelToDiseaseMixin.md) ->  <sub>REQ</sub> [Uriorcurie](Uriorcurie.md)
+[ModelToDiseaseMixin](ModelToDiseaseMixin.md) ->  <sub>REQ</sub> [Uriorcurie](types/Uriorcurie.md)
 
 ## Parents
 

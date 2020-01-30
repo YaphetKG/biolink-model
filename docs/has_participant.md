@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:has_participant
+grand_parent: Browse Biolink Model
+---
 
-# Slot: has participant
+# Type: has_participant
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between a process and a continuant, where the continuant is somehow involved in the process
@@ -32,3 +40,12 @@ URI: [biolink:has_participant](https://w3id.org/biolink/vocab/has_participant)
  * [Phenomenon](Phenomenon.md)
  * [PhysiologicalProcess](PhysiologicalProcess.md)
  * [Procedure](Procedure.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:0000057 |
+|  | | WD:P2283 |
+| **In Subsets:** | | translator_minimal |
+

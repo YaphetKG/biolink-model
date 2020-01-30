@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:affects_stability_of
+grand_parent: Browse Biolink Model
+---
 
-# Slot: affects stability of
+# Type: affects_stability_of
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between two molecular entities where the action or effect of one impacts the stability of the other within a system of interest
@@ -47,3 +55,10 @@ URI: [biolink:affects_stability_of](https://w3id.org/biolink/vocab/affects_stabi
  * [ProteinIsoform](ProteinIsoform.md)
  * [SequenceVariant](SequenceVariant.md)
  * [Transcript](Transcript.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **In Subsets:** | | translator_minimal |
+

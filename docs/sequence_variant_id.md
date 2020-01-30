@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:sequence_variant_id
+grand_parent: Browse Biolink Model
+---
 
-# Slot: id
+# Type: sequence_variant_id
 
 
 
@@ -8,7 +13,7 @@ URI: [biolink:sequence_variant_id](https://w3id.org/biolink/vocab/sequence_varia
 
 ## Domain and Range
 
-[SequenceVariant](SequenceVariant.md) ->  <sub>REQ</sub> [IdentifierType](IdentifierType.md)
+[SequenceVariant](SequenceVariant.md) ->  <sub>REQ</sub> [IdentifierType](types/IdentifierType.md)
 
 ## Parents
 

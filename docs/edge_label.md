@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:edge_label
+grand_parent: Browse Biolink Model
+---
 
-# Slot: edge label
+# Type: edge_label
 
 
 A high-level grouping for the relationship type. AKA minimal predicate. This is analogous to category for nodes.
@@ -8,7 +13,7 @@ URI: [biolink:edge_label](https://w3id.org/biolink/vocab/edge_label)
 
 ## Domain and Range
 
-[Association](Association.md) ->  <sub>REQ</sub> [LabelType](LabelType.md)
+[Association](Association.md) ->  <sub>REQ</sub> [LabelType](types/LabelType.md)
 
 ## Parents
 
@@ -35,11 +40,12 @@ URI: [biolink:edge_label](https://w3id.org/biolink/vocab/edge_label)
  * [ChemicalToThingAssociation](ChemicalToThingAssociation.md)
  * [DiseaseOrPhenotypicFeatureAssociationToLocationAssociation](DiseaseOrPhenotypicFeatureAssociationToLocationAssociation.md)
  * [DiseaseOrPhenotypicFeatureAssociationToThingAssociation](DiseaseOrPhenotypicFeatureAssociationToThingAssociation.md)
+ * [DiseaseToExposureAssociation](DiseaseToExposureAssociation.md)
  * [DiseaseToPhenotypicFeatureAssociation](DiseaseToPhenotypicFeatureAssociation.md)
  * [DiseaseToThingAssociation](DiseaseToThingAssociation.md)
  * [EntityToPhenotypicFeatureAssociation](EntityToPhenotypicFeatureAssociation.md)
- * [EnvironmentToPhenotypicFeatureAssociation](EnvironmentToPhenotypicFeatureAssociation.md)
  * [ExonToTranscriptRelationship](ExonToTranscriptRelationship.md)
+ * [ExposureEventToPhenotypicFeatureAssociation](ExposureEventToPhenotypicFeatureAssociation.md)
  * [FunctionalAssociation](FunctionalAssociation.md)
  * [GeneAsAModelOfDiseaseAssociation](GeneAsAModelOfDiseaseAssociation.md)
  * [GeneHasVariantThatContributesToDiseaseAssociation](GeneHasVariantThatContributesToDiseaseAssociation.md)

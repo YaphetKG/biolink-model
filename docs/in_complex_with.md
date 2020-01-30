@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:in_complex_with
+grand_parent: Browse Biolink Model
+---
 
-# Slot: in complex with
+# Type: in_complex_with
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between two genes or gene products that are part of (or code for products that are part of) in the same macromolecular complex
@@ -29,3 +37,10 @@ URI: [biolink:in_complex_with](https://w3id.org/biolink/vocab/in_complex_with)
  * [NoncodingRNAProduct](NoncodingRNAProduct.md)
  * [Protein](Protein.md)
  * [ProteinIsoform](ProteinIsoform.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **In Subsets:** | | translator_minimal |
+

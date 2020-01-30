@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:decreases_abundance_of
+grand_parent: Browse Biolink Model
+---
 
-# Slot: decreases abundance of
+# Type: decreases_abundance_of
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between two molecular entities where the action or effect of one decreases the amount of the other within a system of interest
@@ -45,3 +53,10 @@ URI: [biolink:decreases_abundance_of](https://w3id.org/biolink/vocab/decreases_a
  * [ProteinIsoform](ProteinIsoform.md)
  * [SequenceVariant](SequenceVariant.md)
  * [Transcript](Transcript.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **In Subsets:** | | translator_minimal |
+

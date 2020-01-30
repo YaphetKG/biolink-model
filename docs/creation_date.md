@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:creation_date
+grand_parent: Browse Biolink Model
+---
 
-# Slot: creation date
+# Type: creation_date
 
 
 date on which thing was created. This can be applied to nodes or edges
@@ -8,7 +13,7 @@ URI: [biolink:creation_date](https://w3id.org/biolink/vocab/creation_date)
 
 ## Domain and Range
 
-[NamedThing](NamedThing.md) ->  <sub>OPT</sub> [Date](Date.md)
+[NamedThing](NamedThing.md) ->  <sub>OPT</sub> [Date](types/Date.md)
 
 ## Parents
 
@@ -20,3 +25,10 @@ URI: [biolink:creation_date](https://w3id.org/biolink/vocab/creation_date)
 ## Used by
 
  * [NamedThing](NamedThing.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | dcterms:created |
+

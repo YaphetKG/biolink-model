@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:enabled_by
+grand_parent: Browse Biolink Model
+---
 
-# Slot: enabled by
+# Type: enabled_by
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between a process and a physical entity, where the physical entity executes the process
@@ -16,7 +24,7 @@ URI: [biolink:enabled_by](https://w3id.org/biolink/vocab/enabled_by)
 
 ## Children
 
- *  [enabled by](molecular_activity_enabled_by.md)
+ *  [molecular activity➞enabled by](molecular_activity_enabled_by.md)
 
 ## Used by
 
@@ -26,3 +34,11 @@ URI: [biolink:enabled_by](https://w3id.org/biolink/vocab/enabled_by)
  * [Occurrent](Occurrent.md)
  * [Pathway](Pathway.md)
  * [PhysiologicalProcess](PhysiologicalProcess.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:0002333 |
+| **In Subsets:** | | translator_minimal |
+

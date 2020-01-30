@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:chemical_to_chemical_derivation_association_subject
+grand_parent: Browse Biolink Model
+---
 
-# Slot: subject
+# Type: chemical_to_chemical_derivation_association_subject
 
 
 

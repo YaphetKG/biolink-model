@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:decreases_splicing_of
+grand_parent: Browse Biolink Model
+---
 
-# Slot: decreases splicing of
+# Type: decreases_splicing_of
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between a molecular entity and an mRNA where the action or effect of the molecular entity decreases the proper splicing of the mRNA
@@ -45,3 +53,10 @@ URI: [biolink:decreases_splicing_of](https://w3id.org/biolink/vocab/decreases_sp
  * [ProteinIsoform](ProteinIsoform.md)
  * [SequenceVariant](SequenceVariant.md)
  * [Transcript](Transcript.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **In Subsets:** | | translator_minimal |
+

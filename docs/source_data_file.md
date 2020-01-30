@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:source_data_file
+grand_parent: Browse Biolink Model
+---
 
-# Slot: source data file
+# Type: source_data_file
 
 
 
@@ -22,3 +27,10 @@ URI: [biolink:source_data_file](https://w3id.org/biolink/vocab/source_data_file)
  * [DataSetSummary](DataSetSummary.md)
  * [DataSetVersion](DataSetVersion.md)
  * [DistributionLevel](DistributionLevel.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | dcterms:source |
+

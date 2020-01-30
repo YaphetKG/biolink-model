@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:molecular_activity_enabled_by
+grand_parent: Browse Biolink Model
+---
 
-# Slot: enabled by
+# Type: molecular_activity_enabled_by
 
 
 

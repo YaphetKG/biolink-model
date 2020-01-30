@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:gene_to_expression_site_association_relation
+grand_parent: Browse Biolink Model
+---
 
-# Slot: relation
+# Type: gene_to_expression_site_association_relation
 
 
 
@@ -8,7 +13,7 @@ URI: [biolink:gene_to_expression_site_association_relation](https://w3id.org/bio
 
 ## Domain and Range
 
-[GeneToExpressionSiteAssociation](GeneToExpressionSiteAssociation.md) ->  <sub>REQ</sub> [Uriorcurie](Uriorcurie.md)
+[GeneToExpressionSiteAssociation](GeneToExpressionSiteAssociation.md) ->  <sub>REQ</sub> [Uriorcurie](types/Uriorcurie.md)
 
 ## Parents
 

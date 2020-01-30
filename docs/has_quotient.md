@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:has_quotient
+grand_parent: Browse Biolink Model
+---
 
-# Slot: has quotient
+# Type: has_quotient
 
 
 
@@ -8,7 +13,7 @@ URI: [biolink:has_quotient](https://w3id.org/biolink/vocab/has_quotient)
 
 ## Domain and Range
 
-[NamedThing](NamedThing.md) ->  <sub>OPT</sub> [Double](Double.md)
+[NamedThing](NamedThing.md) ->  <sub>OPT</sub> [Double](types/Double.md)
 
 ## Parents
 
@@ -16,7 +21,7 @@ URI: [biolink:has_quotient](https://w3id.org/biolink/vocab/has_quotient)
 
 ## Children
 
- *  [has quotient](variant_to_population_association_has_quotient.md)
+ *  [variant to population association➞has quotient](variant_to_population_association_has_quotient.md)
 
 ## Used by
 

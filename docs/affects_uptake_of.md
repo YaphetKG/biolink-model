@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:affects_uptake_of
+grand_parent: Browse Biolink Model
+---
 
-# Slot: affects uptake of
+# Type: affects_uptake_of
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between two molecular entities where the action or effect of one impacts the rate of uptake of the other into of a cell, gland, or organ
@@ -47,3 +55,10 @@ URI: [biolink:affects_uptake_of](https://w3id.org/biolink/vocab/affects_uptake_o
  * [ProteinIsoform](ProteinIsoform.md)
  * [SequenceVariant](SequenceVariant.md)
  * [Transcript](Transcript.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **In Subsets:** | | translator_minimal |
+

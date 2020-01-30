@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:has_phenotype
+grand_parent: Browse Biolink Model
+---
 
-# Slot: has phenotype
+# Type: has_phenotype
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between a biological entity and a phenotype, where a phenotype is construed broadly as any kind of quality of an organism part, a collection of these qualities, or a change in quality or qualities (e.g. abnormally increased temperature).
@@ -30,14 +38,15 @@ URI: [biolink:has_phenotype](https://w3id.org/biolink/vocab/has_phenotype)
  * [Cell](Cell.md)
  * [CellLine](CellLine.md)
  * [CellularComponent](CellularComponent.md)
+ * [ChemicalExposure](ChemicalExposure.md)
  * [ChemicalSubstance](ChemicalSubstance.md)
  * [CodingSequence](CodingSequence.md)
  * [Disease](Disease.md)
  * [DiseaseOrPhenotypicFeature](DiseaseOrPhenotypicFeature.md)
  * [Drug](Drug.md)
  * [DrugExposure](DrugExposure.md)
- * [Environment](Environment.md)
  * [Exon](Exon.md)
+ * [ExposureEvent](ExposureEvent.md)
  * [Gene](Gene.md)
  * [GeneFamily](GeneFamily.md)
  * [GeneOrGeneProduct](GeneOrGeneProduct.md)
@@ -67,3 +76,11 @@ URI: [biolink:has_phenotype](https://w3id.org/biolink/vocab/has_phenotype)
  * [SequenceVariant](SequenceVariant.md)
  * [Transcript](Transcript.md)
  * [Treatment](Treatment.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:0002200 |
+| **In Subsets:** | | translator_minimal |
+

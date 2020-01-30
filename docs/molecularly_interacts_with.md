@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:molecularly_interacts_with
+grand_parent: Browse Biolink Model
+---
 
-# Slot: molecularly interacts with
+# Type: molecularly_interacts_with
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 
@@ -45,3 +53,11 @@ URI: [biolink:molecularly_interacts_with](https://w3id.org/biolink/vocab/molecul
  * [ProteinIsoform](ProteinIsoform.md)
  * [SequenceVariant](SequenceVariant.md)
  * [Transcript](Transcript.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:0002436 |
+| **In Subsets:** | | translator_minimal |
+

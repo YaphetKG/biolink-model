@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:negatively_regulates
+grand_parent: Browse Biolink Model
+---
 
-# Slot: negatively regulates
+# Type: negatively_regulates
 
 
 
@@ -20,3 +25,10 @@ URI: [biolink:negatively_regulates](https://w3id.org/biolink/vocab/negatively_re
 ## Used by
 
  * [NamedThing](NamedThing.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Comments:** | | This is a grouping for process-process and entity-entity relations |
+

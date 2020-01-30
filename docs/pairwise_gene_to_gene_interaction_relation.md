@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:pairwise_gene_to_gene_interaction_relation
+grand_parent: Browse Biolink Model
+---
 
-# Slot: relation
+# Type: pairwise_gene_to_gene_interaction_relation
 
 
 
@@ -8,7 +13,7 @@ URI: [biolink:pairwise_gene_to_gene_interaction_relation](https://w3id.org/bioli
 
 ## Domain and Range
 
-[PairwiseGeneToGeneInteraction](PairwiseGeneToGeneInteraction.md) ->  <sub>REQ</sub> [Uriorcurie](Uriorcurie.md)
+[PairwiseGeneToGeneInteraction](PairwiseGeneToGeneInteraction.md) ->  <sub>REQ</sub> [Uriorcurie](types/Uriorcurie.md)
 
 ## Parents
 

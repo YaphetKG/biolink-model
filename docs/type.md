@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:type
+grand_parent: Browse Biolink Model
+---
 
-# Slot: type
+# Type: type
 
 
 
@@ -8,7 +13,7 @@ URI: [biolink:type](https://w3id.org/biolink/vocab/type)
 
 ## Domain and Range
 
-[NamedThing](NamedThing.md) ->  <sub>OPT</sub> [String](String.md)
+[NamedThing](NamedThing.md) ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Parents
 
@@ -23,3 +28,10 @@ URI: [biolink:type](https://w3id.org/biolink/vocab/type)
  * [DataSetVersion](DataSetVersion.md)
  * [DistributionLevel](DistributionLevel.md)
  * [NamedThing](NamedThing.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | rdf:type |
+

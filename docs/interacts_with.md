@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:interacts_with
+grand_parent: Browse Biolink Model
+---
 
-# Slot: interacts with
+# Type: interacts_with
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between any two entities that directly or indirectly interact with each other
@@ -36,6 +44,7 @@ URI: [biolink:interacts_with](https://w3id.org/biolink/vocab/interacts_with)
  * [Cell](Cell.md)
  * [CellLine](CellLine.md)
  * [CellularComponent](CellularComponent.md)
+ * [ChemicalExposure](ChemicalExposure.md)
  * [ChemicalSubstance](ChemicalSubstance.md)
  * [ClinicalEntity](ClinicalEntity.md)
  * [ClinicalIntervention](ClinicalIntervention.md)
@@ -53,11 +62,11 @@ URI: [biolink:interacts_with](https://w3id.org/biolink/vocab/interacts_with)
  * [DistributionLevel](DistributionLevel.md)
  * [Drug](Drug.md)
  * [DrugExposure](DrugExposure.md)
- * [Environment](Environment.md)
  * [EnvironmentalFeature](EnvironmentalFeature.md)
  * [EnvironmentalProcess](EnvironmentalProcess.md)
  * [EvidenceType](EvidenceType.md)
  * [Exon](Exon.md)
+ * [ExposureEvent](ExposureEvent.md)
  * [FrequencyValue](FrequencyValue.md)
  * [Gene](Gene.md)
  * [GeneFamily](GeneFamily.md)
@@ -110,3 +119,11 @@ URI: [biolink:interacts_with](https://w3id.org/biolink/vocab/interacts_with)
  * [Transcript](Transcript.md)
  * [Treatment](Treatment.md)
  * [Zygosity](Zygosity.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:0002434 |
+| **In Subsets:** | | translator_minimal |
+

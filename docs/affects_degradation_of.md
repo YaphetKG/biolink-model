@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:affects_degradation_of
+grand_parent: Browse Biolink Model
+---
 
-# Slot: affects degradation of
+# Type: affects_degradation_of
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between two molecular entities where the action or effect of one impacts the rate of degradation of the other within a system of interest
@@ -47,3 +55,10 @@ URI: [biolink:affects_degradation_of](https://w3id.org/biolink/vocab/affects_deg
  * [ProteinIsoform](ProteinIsoform.md)
  * [SequenceVariant](SequenceVariant.md)
  * [Transcript](Transcript.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **In Subsets:** | | translator_minimal |
+

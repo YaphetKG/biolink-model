@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:variant_to_disease_association_relation
+grand_parent: Browse Biolink Model
+---
 
-# Slot: relation
+# Type: variant_to_disease_association_relation
 
 
 
@@ -8,7 +13,7 @@ URI: [biolink:variant_to_disease_association_relation](https://w3id.org/biolink/
 
 ## Domain and Range
 
-[VariantToDiseaseAssociation](VariantToDiseaseAssociation.md) ->  <sub>REQ</sub> [Uriorcurie](Uriorcurie.md)
+[VariantToDiseaseAssociation](VariantToDiseaseAssociation.md) ->  <sub>REQ</sub> [Uriorcurie](types/Uriorcurie.md)
 
 ## Parents
 

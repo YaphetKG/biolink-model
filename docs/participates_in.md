@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:participates_in
+grand_parent: Browse Biolink Model
+---
 
-# Slot: participates in
+# Type: participates_in
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between a continuant and a process, where the continuant is somehow involved in the process
@@ -21,3 +29,11 @@ URI: [biolink:participates_in](https://w3id.org/biolink/vocab/participates_in)
 ## Used by
 
  * [NamedThing](NamedThing.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:0000056 |
+| **In Subsets:** | | translator_minimal |
+

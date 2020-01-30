@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:affects_transport_of
+grand_parent: Browse Biolink Model
+---
 
-# Slot: affects transport of
+# Type: affects_transport_of
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between two molecular entities where the action or effect of one impacts the rate of transport of the other across some boundary in a system of interest
@@ -47,3 +55,10 @@ URI: [biolink:affects_transport_of](https://w3id.org/biolink/vocab/affects_trans
  * [ProteinIsoform](ProteinIsoform.md)
  * [SequenceVariant](SequenceVariant.md)
  * [Transcript](Transcript.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **In Subsets:** | | translator_minimal |
+

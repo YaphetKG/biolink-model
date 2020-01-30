@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:sequence_variant_qualifier
+grand_parent: Browse Biolink Model
+---
 
-# Slot: sequence variant qualifier
+# Type: sequence_variant_qualifier
 
 
 a qualifier used in an association where the variant

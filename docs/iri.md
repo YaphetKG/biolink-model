@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:iri
+grand_parent: Browse Biolink Model
+---
 
-# Slot: iri
+# Type: iri
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 An IRI for the node. This is determined by the id using expansion rules.
@@ -8,7 +16,7 @@ URI: [biolink:iri](https://w3id.org/biolink/vocab/iri)
 
 ## Domain and Range
 
-[NamedThing](NamedThing.md) ->  <sub>OPT</sub> [IriType](IriType.md)
+[NamedThing](NamedThing.md) ->  <sub>OPT</sub> [IriType](types/IriType.md)
 
 ## Parents
 
@@ -34,6 +42,7 @@ URI: [biolink:iri](https://w3id.org/biolink/vocab/iri)
  * [Cell](Cell.md)
  * [CellLine](CellLine.md)
  * [CellularComponent](CellularComponent.md)
+ * [ChemicalExposure](ChemicalExposure.md)
  * [ChemicalSubstance](ChemicalSubstance.md)
  * [ClinicalEntity](ClinicalEntity.md)
  * [ClinicalIntervention](ClinicalIntervention.md)
@@ -51,11 +60,11 @@ URI: [biolink:iri](https://w3id.org/biolink/vocab/iri)
  * [DistributionLevel](DistributionLevel.md)
  * [Drug](Drug.md)
  * [DrugExposure](DrugExposure.md)
- * [Environment](Environment.md)
  * [EnvironmentalFeature](EnvironmentalFeature.md)
  * [EnvironmentalProcess](EnvironmentalProcess.md)
  * [EvidenceType](EvidenceType.md)
  * [Exon](Exon.md)
+ * [ExposureEvent](ExposureEvent.md)
  * [FrequencyValue](FrequencyValue.md)
  * [Gene](Gene.md)
  * [GeneFamily](GeneFamily.md)
@@ -108,3 +117,10 @@ URI: [biolink:iri](https://w3id.org/biolink/vocab/iri)
  * [Transcript](Transcript.md)
  * [Treatment](Treatment.md)
  * [Zygosity](Zygosity.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **In Subsets:** | | translator_minimal |
+

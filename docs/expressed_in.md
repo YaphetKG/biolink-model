@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:expressed_in
+grand_parent: Browse Biolink Model
+---
 
-# Slot: expressed in
+# Type: expressed_in
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between a gene or gene product and an anatomical entity in which it is expressed
@@ -29,3 +37,11 @@ URI: [biolink:expressed_in](https://w3id.org/biolink/vocab/expressed_in)
  * [NoncodingRNAProduct](NoncodingRNAProduct.md)
  * [Protein](Protein.md)
  * [ProteinIsoform](ProteinIsoform.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:0002206 |
+| **In Subsets:** | | translator_minimal |
+

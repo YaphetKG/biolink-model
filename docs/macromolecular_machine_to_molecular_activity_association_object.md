@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:macromolecular_machine_to_molecular_activity_association_object
+grand_parent: Browse Biolink Model
+---
 
-# Slot: object
+# Type: macromolecular_machine_to_molecular_activity_association_object
 
 
 
@@ -12,7 +17,7 @@ URI: [biolink:macromolecular_machine_to_molecular_activity_association_object](h
 
 ## Parents
 
- *  is_a: [object](functional_association_object.md)
+ *  is_a: [functional association➞object](functional_association_object.md)
 
 ## Children
 

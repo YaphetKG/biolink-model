@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:macromolecular_machine_name
+grand_parent: Browse Biolink Model
+---
 
-# Slot: name
+# Type: macromolecular_machine_name
 
 
 
@@ -8,7 +13,7 @@ URI: [biolink:macromolecular_machine_name](https://w3id.org/biolink/vocab/macrom
 
 ## Domain and Range
 
-[MacromolecularMachine](MacromolecularMachine.md) ->  <sub>REQ</sub> [SymbolType](SymbolType.md)
+[MacromolecularMachine](MacromolecularMachine.md) ->  <sub>REQ</sub> [SymbolType](types/SymbolType.md)
 
 ## Parents
 

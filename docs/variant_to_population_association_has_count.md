@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:variant_to_population_association_has_count
+grand_parent: Browse Biolink Model
+---
 
-# Slot: has count
+# Type: variant_to_population_association_has_count
 
 
 
@@ -8,7 +13,7 @@ URI: [biolink:variant_to_population_association_has_count](https://w3id.org/biol
 
 ## Domain and Range
 
-[VariantToPopulationAssociation](VariantToPopulationAssociation.md) ->  <sub>OPT</sub> [Integer](Integer.md)
+[VariantToPopulationAssociation](VariantToPopulationAssociation.md) ->  <sub>OPT</sub> [Integer](types/Integer.md)
 
 ## Parents
 

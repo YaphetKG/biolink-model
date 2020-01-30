@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:genotype_to_phenotypic_feature_association_relation
+grand_parent: Browse Biolink Model
+---
 
-# Slot: relation
+# Type: genotype_to_phenotypic_feature_association_relation
 
 
 
@@ -8,7 +13,7 @@ URI: [biolink:genotype_to_phenotypic_feature_association_relation](https://w3id.
 
 ## Domain and Range
 
-[GenotypeToPhenotypicFeatureAssociation](GenotypeToPhenotypicFeatureAssociation.md) ->  <sub>REQ</sub> [Uriorcurie](Uriorcurie.md)
+[GenotypeToPhenotypicFeatureAssociation](GenotypeToPhenotypicFeatureAssociation.md) ->  <sub>REQ</sub> [Uriorcurie](types/Uriorcurie.md)
 
 ## Parents
 

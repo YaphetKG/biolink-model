@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:decreases_stability_of
+grand_parent: Browse Biolink Model
+---
 
-# Slot: decreases stability of
+# Type: decreases_stability_of
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between two molecular entities where the action or effect of one decreases the stability of the other within a system of interest
@@ -45,3 +53,10 @@ URI: [biolink:decreases_stability_of](https://w3id.org/biolink/vocab/decreases_s
  * [ProteinIsoform](ProteinIsoform.md)
  * [SequenceVariant](SequenceVariant.md)
  * [Transcript](Transcript.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **In Subsets:** | | translator_minimal |
+

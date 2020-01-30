@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:has_quantitative_value
+grand_parent: Browse Biolink Model
+---
 
-# Slot: has quantitative value
+# Type: has_quantitative_value
+
+samples
+{: .samples-subset-label }
 
 
 connects an attribute to a value
@@ -27,3 +35,11 @@ URI: [biolink:has_quantitative_value](https://w3id.org/biolink/vocab/has_quantit
  * [PhenotypicSex](PhenotypicSex.md)
  * [SeverityValue](SeverityValue.md)
  * [Zygosity](Zygosity.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | qud:quantityValue |
+| **In Subsets:** | | samples |
+

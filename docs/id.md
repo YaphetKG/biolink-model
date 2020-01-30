@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:id
+grand_parent: Browse Biolink Model
+---
 
-# Slot: id
+# Type: id
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 A unique identifier for a thing. Must be either a CURIE shorthand for a URI or a complete URI
@@ -8,7 +16,7 @@ URI: [biolink:id](https://w3id.org/biolink/vocab/id)
 
 ## Domain and Range
 
-[NamedThing](NamedThing.md) ->  <sub>REQ</sub> [IdentifierType](IdentifierType.md)
+[NamedThing](NamedThing.md) ->  <sub>REQ</sub> [IdentifierType](types/IdentifierType.md)
 
 ## Parents
 
@@ -16,7 +24,7 @@ URI: [biolink:id](https://w3id.org/biolink/vocab/id)
 
 ## Children
 
- *  [id](sequence_variant_id.md)
+ *  [sequence variant➞id](sequence_variant_id.md)
 
 ## Used by
 
@@ -35,6 +43,7 @@ URI: [biolink:id](https://w3id.org/biolink/vocab/id)
  * [Cell](Cell.md)
  * [CellLine](CellLine.md)
  * [CellularComponent](CellularComponent.md)
+ * [ChemicalExposure](ChemicalExposure.md)
  * [ChemicalSubstance](ChemicalSubstance.md)
  * [ClinicalEntity](ClinicalEntity.md)
  * [ClinicalIntervention](ClinicalIntervention.md)
@@ -52,11 +61,11 @@ URI: [biolink:id](https://w3id.org/biolink/vocab/id)
  * [DistributionLevel](DistributionLevel.md)
  * [Drug](Drug.md)
  * [DrugExposure](DrugExposure.md)
- * [Environment](Environment.md)
  * [EnvironmentalFeature](EnvironmentalFeature.md)
  * [EnvironmentalProcess](EnvironmentalProcess.md)
  * [EvidenceType](EvidenceType.md)
  * [Exon](Exon.md)
+ * [ExposureEvent](ExposureEvent.md)
  * [FrequencyValue](FrequencyValue.md)
  * [Gene](Gene.md)
  * [GeneFamily](GeneFamily.md)
@@ -110,3 +119,10 @@ URI: [biolink:id](https://w3id.org/biolink/vocab/id)
  * [Transcript](Transcript.md)
  * [Treatment](Treatment.md)
  * [Zygosity](Zygosity.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **In Subsets:** | | translator_minimal |
+

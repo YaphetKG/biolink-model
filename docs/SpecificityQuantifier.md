@@ -1,12 +1,23 @@
+---
+parent: Mixins
+title: biolink:SpecificityQuantifier
+grand_parent: Browse Biolink Model
+---
 
-# Class: specificity quantifier
+# Type: SpecificityQuantifier
 
 
 
 
 URI: [biolink:SpecificityQuantifier](https://w3id.org/biolink/vocab/SpecificityQuantifier)
 
-![img](images/SpecificityQuantifier.png)
+
+---
+
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/\[SpecificityQuantifier]^-\[PathognomonicityQuantifier],%20\[RelationshipQuantifier]^-\[SpecificityQuantifier])
+
+---
+
 
 ## Parents
 

@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:positively_regulates_process_to_process
+grand_parent: Browse Biolink Model
+---
 
-# Slot: positively regulates, process to process
+# Type: positively_regulates_process_to_process
 
 
 
@@ -20,3 +25,10 @@ URI: [biolink:positively_regulates_process_to_process](https://w3id.org/biolink/
 ## Used by
 
  * [Occurrent](Occurrent.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:0002213 |
+

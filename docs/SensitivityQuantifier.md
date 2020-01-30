@@ -1,12 +1,23 @@
+---
+parent: Mixins
+title: biolink:SensitivityQuantifier
+grand_parent: Browse Biolink Model
+---
 
-# Class: sensitivity quantifier
+# Type: SensitivityQuantifier
 
 
 
 
 URI: [biolink:SensitivityQuantifier](https://w3id.org/biolink/vocab/SensitivityQuantifier)
 
-![img](images/SensitivityQuantifier.png)
+
+---
+
+![img](http://yuml.me/diagram/nofunky;dir:TB/class/\[RelationshipQuantifier]^-\[SensitivityQuantifier])
+
+---
+
 
 ## Parents
 

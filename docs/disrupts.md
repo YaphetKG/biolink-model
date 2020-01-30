@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:disrupts
+grand_parent: Browse Biolink Model
+---
 
-# Slot: disrupts
+# Type: disrupts
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 describes a relationship where one entity degrades or interferes with the structure, function, or occurrence of another.
@@ -20,3 +28,11 @@ URI: [biolink:disrupts](https://w3id.org/biolink/vocab/disrupts)
 ## Used by
 
  * [NamedThing](NamedThing.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | SEMMEDDB:DISRUPTS |
+| **In Subsets:** | | translator_minimal |
+

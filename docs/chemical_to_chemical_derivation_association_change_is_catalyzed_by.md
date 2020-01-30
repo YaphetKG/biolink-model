@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:chemical_to_chemical_derivation_association_change_is_catalyzed_by
+grand_parent: Browse Biolink Model
+---
 
-# Slot: change is catalyzed by
+# Type: chemical_to_chemical_derivation_association_change_is_catalyzed_by
 
 
 

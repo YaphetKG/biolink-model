@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:entity_to_phenotypic_feature_association_description
+grand_parent: Browse Biolink Model
+---
 
-# Slot: description
+# Type: entity_to_phenotypic_feature_association_description
 
 
 
@@ -8,7 +13,7 @@ URI: [biolink:entity_to_phenotypic_feature_association_description](https://w3id
 
 ## Domain and Range
 
-[EntityToPhenotypicFeatureAssociation](EntityToPhenotypicFeatureAssociation.md) ->  <sub>OPT</sub> [NarrativeText](NarrativeText.md)
+[EntityToPhenotypicFeatureAssociation](EntityToPhenotypicFeatureAssociation.md) ->  <sub>OPT</sub> [NarrativeText](types/NarrativeText.md)
 
 ## Parents
 

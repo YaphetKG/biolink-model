@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:negatively_regulates_entity_to_entity
+grand_parent: Browse Biolink Model
+---
 
-# Slot: negatively regulates, entity to entity
+# Type: negatively_regulates_entity_to_entity
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 
@@ -20,3 +28,15 @@ URI: [biolink:negatively_regulates_entity_to_entity](https://w3id.org/biolink/vo
 ## Used by
 
  * [MolecularEntity](MolecularEntity.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Aliases:** | | activity directly negatively regulates activity of |
+| **Local names:** | | negatively regulates (translator) |
+|  | | activity directly negatively regulates activity of (ro) |
+| **Mappings:** | | RO:0002449 |
+|  | | SEMMEDDB:INHIBITS |
+| **In Subsets:** | | translator_minimal |
+

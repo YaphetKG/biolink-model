@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:predisposes
+grand_parent: Browse Biolink Model
+---
 
-# Slot: predisposes
+# Type: predisposes
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between two entities where exposure to one entity increases the chance of developing the other
@@ -20,3 +28,11 @@ URI: [biolink:predisposes](https://w3id.org/biolink/vocab/predisposes)
 ## Used by
 
  * [NamedThing](NamedThing.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | SEMMEDDB:PREDISPOSES |
+| **In Subsets:** | | translator_minimal |
+

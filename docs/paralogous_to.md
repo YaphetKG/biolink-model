@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:paralogous_to
+grand_parent: Browse Biolink Model
+---
 
-# Slot: paralogous to
+# Type: paralogous_to
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 a homology relationship that holds between entities (typically genes) that diverged after a duplication event.
@@ -20,3 +28,11 @@ URI: [biolink:paralogous_to](https://w3id.org/biolink/vocab/paralogous_to)
 ## Used by
 
  * [NamedThing](NamedThing.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:HOM0000011 |
+| **In Subsets:** | | translator_minimal |
+

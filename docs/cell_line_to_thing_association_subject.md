@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:cell_line_to_thing_association_subject
+grand_parent: Browse Biolink Model
+---
 
-# Slot: subject
+# Type: cell_line_to_thing_association_subject
 
 
 

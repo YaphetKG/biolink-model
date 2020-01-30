@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:filler
+grand_parent: Browse Biolink Model
+---
 
-# Slot: filler
+# Type: filler
 
 
 The value in a property-value tuple

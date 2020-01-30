@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:severity_qualifier
+grand_parent: Browse Biolink Model
+---
 
-# Slot: severity qualifier
+# Type: severity_qualifier
 
 
 a qualifier used in a phenotypic association to state how severe the phenotype is in the subject
@@ -25,7 +30,7 @@ URI: [biolink:severity_qualifier](https://w3id.org/biolink/vocab/severity_qualif
  * [EntityToDiseaseAssociation](EntityToDiseaseAssociation.md)
  * [EntityToFeatureOrDiseaseQualifiers](EntityToFeatureOrDiseaseQualifiers.md)
  * [EntityToPhenotypicFeatureAssociation](EntityToPhenotypicFeatureAssociation.md)
- * [EnvironmentToPhenotypicFeatureAssociation](EnvironmentToPhenotypicFeatureAssociation.md)
+ * [ExposureEventToPhenotypicFeatureAssociation](ExposureEventToPhenotypicFeatureAssociation.md)
  * [GeneAsAModelOfDiseaseAssociation](GeneAsAModelOfDiseaseAssociation.md)
  * [GeneHasVariantThatContributesToDiseaseAssociation](GeneHasVariantThatContributesToDiseaseAssociation.md)
  * [GeneToDiseaseAssociation](GeneToDiseaseAssociation.md)

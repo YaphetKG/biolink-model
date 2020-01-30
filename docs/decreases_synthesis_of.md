@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:decreases_synthesis_of
+grand_parent: Browse Biolink Model
+---
 
-# Slot: decreases synthesis of
+# Type: decreases_synthesis_of
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between two molecular entities where the action or effect of one decreases the rate of chemical synthesis of the other
@@ -45,3 +53,10 @@ URI: [biolink:decreases_synthesis_of](https://w3id.org/biolink/vocab/decreases_s
  * [ProteinIsoform](ProteinIsoform.md)
  * [SequenceVariant](SequenceVariant.md)
  * [Transcript](Transcript.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **In Subsets:** | | translator_minimal |
+

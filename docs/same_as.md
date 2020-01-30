@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:same_as
+grand_parent: Browse Biolink Model
+---
 
-# Slot: same as
+# Type: same_as
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between two entities that are considered equivalent to each other
@@ -20,3 +28,14 @@ URI: [biolink:same_as](https://w3id.org/biolink/vocab/same_as)
 ## Used by
 
  * [NamedThing](NamedThing.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | owl:equivalentClass |
+|  | | owl:sameAs |
+|  | | skos:exactMatch |
+|  | | WD:P2888 |
+| **In Subsets:** | | translator_minimal |
+

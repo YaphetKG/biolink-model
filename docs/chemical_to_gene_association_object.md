@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:chemical_to_gene_association_object
+grand_parent: Browse Biolink Model
+---
 
-# Slot: object
+# Type: chemical_to_gene_association_object
 
 
 

@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:expresses
+grand_parent: Browse Biolink Model
+---
 
-# Slot: expresses
+# Type: expresses
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between an anatomical entity and gene or gene product that is expressed there
@@ -23,3 +31,11 @@ URI: [biolink:expresses](https://w3id.org/biolink/vocab/expresses)
  * [Cell](Cell.md)
  * [CellularComponent](CellularComponent.md)
  * [GrossAnatomicalStructure](GrossAnatomicalStructure.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:0002292 |
+| **In Subsets:** | | translator_minimal |
+

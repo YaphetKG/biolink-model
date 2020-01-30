@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:molecular_activity_has_input
+grand_parent: Browse Biolink Model
+---
 
-# Slot: has input
+# Type: molecular_activity_has_input
 
 
 

@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:interbase_coordinate
+grand_parent: Browse Biolink Model
+---
 
-# Slot: interbase coordinate
+# Type: interbase_coordinate
 
 
 TODO
@@ -8,7 +13,7 @@ URI: [biolink:interbase_coordinate](https://w3id.org/biolink/vocab/interbase_coo
 
 ## Domain and Range
 
-[NamedThing](NamedThing.md) ->  <sub>OPT</sub> [String](String.md)
+[NamedThing](NamedThing.md) ->  <sub>OPT</sub> [String](types/String.md)
 
 ## Parents
 

@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:pairwise_interaction_association_relation
+grand_parent: Browse Biolink Model
+---
 
-# Slot: relation
+# Type: pairwise_interaction_association_relation
 
 
 
@@ -8,7 +13,7 @@ URI: [biolink:pairwise_interaction_association_relation](https://w3id.org/biolin
 
 ## Domain and Range
 
-[PairwiseInteractionAssociation](PairwiseInteractionAssociation.md) ->  <sub>REQ</sub> [Uriorcurie](Uriorcurie.md)
+[PairwiseInteractionAssociation](PairwiseInteractionAssociation.md) ->  <sub>REQ</sub> [Uriorcurie](types/Uriorcurie.md)
 
 ## Parents
 

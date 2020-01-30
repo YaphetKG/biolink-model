@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:located_in
+grand_parent: Browse Biolink Model
+---
 
-# Slot: located in
+# Type: located_in
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between a material entity and a material entity or site within which it is located (but of which it is not considered a part)
@@ -20,3 +28,11 @@ URI: [biolink:located_in](https://w3id.org/biolink/vocab/located_in)
 ## Used by
 
  * [NamedThing](NamedThing.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | RO:0001025 |
+| **In Subsets:** | | translator_minimal |
+

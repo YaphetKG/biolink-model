@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:disease_or_phenotypic_feature_association_to_location_association_object
+grand_parent: Browse Biolink Model
+---
 
-# Slot: object
+# Type: disease_or_phenotypic_feature_association_to_location_association_object
 
 
 

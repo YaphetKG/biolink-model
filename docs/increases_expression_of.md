@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:increases_expression_of
+grand_parent: Browse Biolink Model
+---
 
-# Slot: increases expression of
+# Type: increases_expression_of
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between two molecular entities where the action or effect of one increases the level of expression of the other within a system of interest
@@ -45,3 +53,10 @@ URI: [biolink:increases_expression_of](https://w3id.org/biolink/vocab/increases_
  * [ProteinIsoform](ProteinIsoform.md)
  * [SequenceVariant](SequenceVariant.md)
  * [Transcript](Transcript.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **In Subsets:** | | translator_minimal |
+

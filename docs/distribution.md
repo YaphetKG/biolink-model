@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:distribution
+grand_parent: Browse Biolink Model
+---
 
-# Slot: distribution
+# Type: distribution
 
 
 
@@ -22,3 +27,10 @@ URI: [biolink:distribution](https://w3id.org/biolink/vocab/distribution)
  * [DataSetSummary](DataSetSummary.md)
  * [DataSetVersion](DataSetVersion.md)
  * [DistributionLevel](DistributionLevel.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | void:Dataset |
+

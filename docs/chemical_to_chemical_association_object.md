@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:chemical_to_chemical_association_object
+grand_parent: Browse Biolink Model
+---
 
-# Slot: object
+# Type: chemical_to_chemical_association_object
 
 
 
@@ -16,7 +21,7 @@ URI: [biolink:chemical_to_chemical_association_object](https://w3id.org/biolink/
 
 ## Children
 
- *  [object](chemical_to_chemical_derivation_association_object.md)
+ *  [chemical to chemical derivation association➞object](chemical_to_chemical_derivation_association_object.md)
 
 ## Used by
 

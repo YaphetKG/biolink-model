@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:sequence_feature_relationship_subject
+grand_parent: Browse Biolink Model
+---
 
-# Slot: subject
+# Type: sequence_feature_relationship_subject
 
 
 
@@ -16,9 +21,9 @@ URI: [biolink:sequence_feature_relationship_subject](https://w3id.org/biolink/vo
 
 ## Children
 
- *  [subject](exon_to_transcript_relationship_subject.md)
- *  [subject](gene_to_gene_product_relationship_subject.md)
- *  [subject](transcript_to_gene_relationship_subject.md)
+ *  [exon to transcript relationship➞subject](exon_to_transcript_relationship_subject.md)
+ *  [gene to gene product relationship➞subject](gene_to_gene_product_relationship_subject.md)
+ *  [transcript to gene relationship➞subject](transcript_to_gene_relationship_subject.md)
 
 ## Used by
 

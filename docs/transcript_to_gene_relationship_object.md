@@ -1,5 +1,10 @@
+---
+parent: Slots
+title: biolink:transcript_to_gene_relationship_object
+grand_parent: Browse Biolink Model
+---
 
-# Slot: object
+# Type: transcript_to_gene_relationship_object
 
 
 
@@ -12,7 +17,7 @@ URI: [biolink:transcript_to_gene_relationship_object](https://w3id.org/biolink/v
 
 ## Parents
 
- *  is_a: [object](sequence_feature_relationship_object.md)
+ *  is_a: [sequence feature relationship➞object](sequence_feature_relationship_object.md)
 
 ## Children
 

@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:occurs_in
+grand_parent: Browse Biolink Model
+---
 
-# Slot: occurs in
+# Type: occurs_in
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between a process and a material entity or site within which the process occurs
@@ -20,3 +28,13 @@ URI: [biolink:occurs_in](https://w3id.org/biolink/vocab/occurs_in)
 ## Used by
 
  * [NamedThing](NamedThing.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | BFO:0000066 |
+|  | | SEMMEDDB:OCCURS_IN |
+|  | | SEMMEDDB:PROCESS_OF |
+| **In Subsets:** | | translator_minimal |
+

@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:affects_splicing_of
+grand_parent: Browse Biolink Model
+---
 
-# Slot: affects splicing of
+# Type: affects_splicing_of
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 holds between a molecular entity and an mRNA where the action or effect of the molecular entity impacts the splicing of the mRNA
@@ -47,3 +55,10 @@ URI: [biolink:affects_splicing_of](https://w3id.org/biolink/vocab/affects_splici
  * [ProteinIsoform](ProteinIsoform.md)
  * [SequenceVariant](SequenceVariant.md)
  * [Transcript](Transcript.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **In Subsets:** | | translator_minimal |
+

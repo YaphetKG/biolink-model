@@ -1,5 +1,13 @@
+---
+parent: Slots
+title: biolink:positively_regulates_entity_to_entity
+grand_parent: Browse Biolink Model
+---
 
-# Slot: positively regulates, entity to entity
+# Type: positively_regulates_entity_to_entity
+
+translator_minimal
+{: .translator_minimal-subset-label }
 
 
 
@@ -20,3 +28,15 @@ URI: [biolink:positively_regulates_entity_to_entity](https://w3id.org/biolink/vo
 ## Used by
 
  * [MolecularEntity](MolecularEntity.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Aliases:** | | activity directly positively regulates activity of |
+| **Local names:** | | positively regulates (translator) |
+|  | | activity directly positively regulates activity of (ro) |
+| **Mappings:** | | RO:0002450 |
+|  | | SEMMEDDB:STIMULATES |
+| **In Subsets:** | | translator_minimal |
+
